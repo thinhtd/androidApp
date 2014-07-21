@@ -1,5 +1,9 @@
 package com.guessEnglish.activity;
 
-public class MainActivity {
+import android.app.Activity;
 
+public class MainActivity extends Activity {
+
+	
+	
 }
